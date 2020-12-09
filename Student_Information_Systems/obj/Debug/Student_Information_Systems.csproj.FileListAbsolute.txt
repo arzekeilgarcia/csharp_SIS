@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\bin\Debug\Student_Information_Systems.exe.config
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\bin\Debug\Student_Information_Systems.exe
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\bin\Debug\Student_Information_Systems.pdb
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.frmLogin.resources
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.frmMain.resources
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.frmNewUser.resources
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.Properties.Resources.resources
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.exe
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.pdb
+C:\Users\Admin\Documents\ICS4U1\Unit_4\Assignment\Assignment_4\Student_Information_Systems\obj\Debug\Student_Information_Systems.frmAdmin.resources
